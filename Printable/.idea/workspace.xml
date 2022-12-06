@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5aab40d-6a32-4079-b5d4-5a9a9fda03c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DreamJob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DreamJob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DreamJob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DreamJob/DreamJob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DreamJob/src/DreamJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Itschool/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Itschool/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Itschool/src/Bootcamps/JavaScript.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Itschool/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson12_Arrays/Lesson12_Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson8_Циклы_ForLoop/Lesson8_Циклы_ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectInterface/ObjectInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Printable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Task6_2809/Task6_2809.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee/out/production/Employee/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee/out/production/Employee/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee/src" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itschool/src/Flutter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itschool/src/Bootcamps/Flutter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itschool/src/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itschool/src/Bootcamps/Java.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itschool/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itschool/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Itschool/src/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Itschool/src/Bootcamps/Python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson2/Lesson2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson2/Lesson2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/Object.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/out/production/Object/Building.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/out/production/Object/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/out/production/Object/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Models/Building.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Models/Lorry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Models/SportCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Services/CarService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Object/src/Services/LorryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GkLq9TLa0GQ5qgNjFUjfqaR4Dg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Printable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5aab40d-6a32-4079-b5d4-5a9a9fda03c1" name="Changes" comment="" />
+      <created>1666927824796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666927824796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
