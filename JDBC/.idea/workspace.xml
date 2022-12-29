@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54978985-18c1-4e6e-9586-15726e230602" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CatHashSet/CatHashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Course31102022/Course31102022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exeptions/Exeptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTP_24112022/Tinder/Tinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashSet/CarInterface/CarInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HashSet/HashSet/HashSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Instrumentas/Instrumentas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewYorkTime/NewYorkTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programma0911/Programma0911.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shop18112022/Shop18112022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sql14Cars/Sql14Cars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/Stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/FuncInterface/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/FuncInterface/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stream/src/FuncInterface/Senior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enums/enums.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee/src" beforeDir="false" afterPath="$PROJECT_DIR$/../Employee/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stream/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Stream/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2JKnZHIuiDM6EoQchseDAtQ7aqL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/naTV",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54978985-18c1-4e6e-9586-15726e230602" name="Changes" comment="" />
+      <created>1671835699569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671835699569</updated>
+      <workItem from="1671835701752" duration="1811000" />
+      <workItem from="1672049138324" duration="2662000" />
+      <workItem from="1672080019516" duration="1242000" />
+      <workItem from="1672221225210" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

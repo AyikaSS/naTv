@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson2/Acquaintance/Acquaintance.iml" filepath="$PROJECT_DIR$/Lesson2/Acquaintance/Acquaintance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Auto/Auto.iml" filepath="$PROJECT_DIR$/Auto/Auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Basket/Basket.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Basket/Basket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7_Условные конструкции/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Lesson7_Условные конструкции/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Car/Car.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Car/Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Car2/Car2.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Car2/Car2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7_Условные конструкции/Coordinates/Coordinates.iml" filepath="$PROJECT_DIR$/Lesson7_Условные конструкции/Coordinates/Coordinates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Employee/Employee.iml" filepath="$PROJECT_DIR$/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itschool/Itschool.iml" filepath="$PROJECT_DIR$/Itschool/Itschool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA_HOME/JAVA_HOME.iml" filepath="$PROJECT_DIR$/JAVA_HOME/JAVA_HOME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7_Условные конструкции/Kotlety/Kotlety.iml" filepath="$PROJECT_DIR$/Lesson7_Условные конструкции/Kotlety/Kotlety.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson2/Laptop/Laptop.iml" filepath="$PROJECT_DIR$/Lesson2/Laptop/Laptop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson12_Arrays/Lesson12_Arrays.iml" filepath="$PROJECT_DIR$/Lesson12_Arrays/Lesson12_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson2/Lesson2.iml" filepath="$PROJECT_DIR$/Lesson2/Lesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson4/Lesson4.iml" filepath="$PROJECT_DIR$/Lesson4/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson5/Lesson5.iml" filepath="$PROJECT_DIR$/Lesson5/Lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson6/Lesson6.iml" filepath="$PROJECT_DIR$/Lesson6/Lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson8_Циклы_ForLoop/Lesson8_Циклы_ForLoop.iml" filepath="$PROJECT_DIR$/Lesson8_Циклы_ForLoop/Lesson8_Циклы_ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minimalnoe_chislo2/Minimalnoe_chislo2.iml" filepath="$PROJECT_DIR$/Minimalnoe_chislo2/Minimalnoe_chislo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Music/Music.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Music/Music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectInterface/ObjectInterface.iml" filepath="$PROJECT_DIR$/ObjectInterface/ObjectInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Phone/Phone.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Phone/Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson7_Условные конструкции/Slonchik/Slonchik.iml" filepath="$PROJECT_DIR$/Lesson7_Условные конструкции/Slonchik/Slonchik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_OOП/Subbotnic/Subbotnic.iml" filepath="$PROJECT_DIR$/Lesson14_OOП/Subbotnic/Subbotnic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task6_2809/Task6_2809.iml" filepath="$PROJECT_DIR$/Task6_2809/Task6_2809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson2/VARIABLES_45/VARIABLES_45.iml" filepath="$PROJECT_DIR$/Lesson2/VARIABLES_45/VARIABLES_45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Veterinar/Veterinar.iml" filepath="$PROJECT_DIR$/Veterinar/Veterinar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test123/test123.iml" filepath="$PROJECT_DIR$/test123/test123.iml" />
+    </modules>
+  </component>
+</project>
